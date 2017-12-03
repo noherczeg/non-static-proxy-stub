@@ -1,0 +1,17 @@
+{
+  "name": "non-static-proxy-stub",
+  "version": "1.0.0",
+  "description": "A Webpack based proxy stub for proxy-ing only non static sources",
+  "main": "index.js",
+  "scripts": {
+    "server": "webpack-dev-server --progress --color",
+    "start": "npm run server",
+    "test": "echo 'no-tests'"
+  },
+  "author": "Norbert Csaba Herczeg",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.9.1",
+    "webpack-dev-server": "^2.9.5"
+  }
+}
