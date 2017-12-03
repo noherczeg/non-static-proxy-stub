@@ -35,4 +35,6 @@ npm install
 npm start
 ```
 
+Your sources will be served at: [http://localhost:9002](http://localhost:9002)
+
 For further configuration please check the `webpack.config.js` file!
